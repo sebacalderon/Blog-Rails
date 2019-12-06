@@ -56,10 +56,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 
-gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '3.1.5'
 gem 'bootstrap-will_paginate', '1.0.0'
 
 gem 'devise'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
+
+gem 'jquery-rails'
